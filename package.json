@@ -1,6 +1,6 @@
 {
   "name": "fmi-js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Simple utility for fetching weather data in JSON format using FMI open data",
   "main": "main.js",
   "scripts": {
